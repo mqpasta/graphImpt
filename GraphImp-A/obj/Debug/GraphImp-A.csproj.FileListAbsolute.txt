@@ -1,0 +1,7 @@
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\bin\Debug\GraphImp-A.exe.config
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\bin\Debug\GraphImp-A.exe
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\bin\Debug\GraphImp-A.pdb
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\obj\Debug\GraphImp-A.csprojResolveAssemblyReference.cache
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\obj\Debug\GraphImp-A.csproj.CoreCompileInputs.cache
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\obj\Debug\GraphImp-A.exe
+c:\users\ad\source\repos\GraphImp-A\GraphImp-A\obj\Debug\GraphImp-A.pdb
